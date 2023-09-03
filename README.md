@@ -26,7 +26,7 @@
 ## My skills 🛠️
 
 <div align="center">
-  <img src="assets/bebop_smoke.gif" align="right">
+  <img src="assets/bebop_smoke.gif" align="right" height="500px">
 </div>
 
 
