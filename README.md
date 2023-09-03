@@ -7,15 +7,18 @@
   </p>
 </div>
 
-## About me 🚀
+<div>
+  <h2>About me 🚀</h2>
+   <div align="center">
+    <img src="assets/lain2.gif" align="right" height="300px">
+  </div>
+  <ul>
+    <li>👨 My name is Artem</li>
+    <li>🌱 I'm currently studying at the College of Information Technology (KAI).</li>
+    <li>👾 My hobbies are playing video games and dnd, learning the history of video games </li>
+  </ul>
+</div>
 
-<div align="right">
-  <img src="assets/lain.gif" align="right" width="400px">
-</div> 
-
-- 👨 My name is Artem
-- 🌱 I'm currently studying at the College of Information Technology (KAI).
-- 👾 My hobbies are playing video games and dnd, learning the history of video games 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nifle3&theme=nord&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
