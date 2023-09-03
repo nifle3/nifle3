@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="assets/mia.gif">
+    <img src="assets/lo-fi.gif">
   </p>
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome-to-my-profile&center=true&width=380&height=50&duration=4000&pause=1000">
@@ -8,6 +8,11 @@
 </div>
 
 ## About me 🚀
+
+<div align="right">
+  <img src="assets/lain.gif" align="right" width="400px">
+</div> 
+
 - 👨 My name is Artem
 - 🌱 I'm currently studying at the College of Information Technology (KAI).
 - 👾 My hobbies are playing video games and dnd, learning the history of video games 
