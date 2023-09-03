@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="assets/mia.gif">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome-to-my-profile&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
-<!-- markdownlint-enable MD033 -->
+<div align="center">
+  <p>
+    <img src="assets/mia.gif">
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome-to-my-profile&center=true&width=380&height=50&duration=4000&pause=1000">
+  </p>
+</div>
 
 ## About me 🚀
 - 👨 My name is Artem
@@ -12,8 +13,16 @@
 - 👾 My hobbies are playing video games and dnd, learning the history of video games 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nifle3&theme=nord&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
 ## My skills 🛠️
-#### Programming languages
+
+<div align="center">
+  <img src="assets/bebop_smoke.gif" align="right">
+</div>
+
+
+#### Programming lnguages
 [![My Skills](https://skillicons.dev/icons?i=go,cs,python)](https://skillicons.dev)
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
