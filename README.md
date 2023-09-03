@@ -1,5 +1,6 @@
-# Hi there! 👋
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+![Alt text](assets/mia.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome-to-my-profile)](https://git.io/typing-svg)
+<!-- markdownlint-enable MD033 -->
 ## About me 🚀
 - 👨 My name is Artem
 - 🌱 I'm currently studying at the College of Information Technology (KAI).
@@ -19,4 +20,6 @@
 - Become a professional software engineer
 - Learning game dev developer stack
 - Get a redshirt in college
-- Undergraduate enrollment 
+- Undergraduate enrollment
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
