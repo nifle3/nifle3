@@ -1,6 +1,11 @@
-![Alt text](assets/mia.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome-to-my-profile)](https://git.io/typing-svg)
+<p align="center">
+  <img src="assets/mia.gif">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome-to-my-profile&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 <!-- markdownlint-enable MD033 -->
+
 ## About me 🚀
 - 👨 My name is Artem
 - 🌱 I'm currently studying at the College of Information Technology (KAI).
