@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there! 👋
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+## About me 🚀
+- 👨 My name is Artem
+- 🌱 I'm currently studying at the College of Information Technology (KAI).
+- 👾 My hobbies are playing video games and dnd, learning the history of video games 
 
-<!--
-**nifle3/nifle3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com?user=nifle3&theme=nord&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## My skills 🛠️
+#### Programming languages
+[![My Skills](https://skillicons.dev/icons?i=go,cs,python)](https://skillicons.dev)
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+#### Other technologies
+[![My Skills](https://skillicons.dev/icons?i=unity,docker,git,wasm)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nifle3&layout=compact&theme=nord)
+## My goals🚀
+- Become a professional software engineer
+- Learning game dev developer stack
+- Get a redshirt in college
+- Undergraduate enrollment 
