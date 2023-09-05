@@ -37,7 +37,6 @@
 #### Other technologies
 [![My Skills](https://skillicons.dev/icons?i=unity,docker,git,wasm)](https://skillicons.dev)
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nifle3&theme=nord)
 ## My goals🚀
 - Become a professional software engineer
 - Learning game dev developer stack
