@@ -37,11 +37,11 @@
 #### Other technologies
 [![My Skills](https://skillicons.dev/icons?i=unity,docker,git,wasm)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nifle3&layout=compact&theme=nord)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nifle3&theme=nord)
 ## My goals🚀
 - Become a professional software engineer
 - Learning game dev developer stack
 - Get a redshirt in college
 - Undergraduate enrollment
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord) 
