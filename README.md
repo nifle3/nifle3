@@ -20,8 +20,8 @@
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nifle3&theme=nord&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## My skills 🛠️
 
