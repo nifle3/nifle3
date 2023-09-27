@@ -21,7 +21,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -100,7 +100,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nifle3/nifle3/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2023 18:35:29 UTC
+ Last Updated on 27/09/2023 18:35:41 UTC
 <!--END_SECTION:waka-->
 
 ## My skills 🛠️
