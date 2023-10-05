@@ -21,13 +21,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 35.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 383 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,17 +64,19 @@ Sunday                   87 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Go                       2 hrs 37 mins       █████████████████████████   100.00 % 
+Go                       3 hrs 17 mins       ████████████████████████░   97.33 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-GoLand                   2 hrs 37 mins       █████████████████████████   100.00 % 
+GoLand                   3 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode                 2 hrs 26 mins       ███████████████████████░░   93.33 % 
-weatherReport            10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+leetcode                 2 hrs 38 mins       ████████████████████░░░░░   78.15 % 
+weatherReport            44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
 
 💻 Operating System: 
-Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -92,7 +96,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nifle3/nifle3/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2023 18:36:42 UTC
+ Last Updated on 05/10/2023 18:36:04 UTC
 <!--END_SECTION:waka-->
 
 ## My skills 🛠️
