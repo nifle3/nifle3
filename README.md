@@ -102,13 +102,12 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## My skills 🛠️
-
+#### Programming languages
 <div align="center">
   <img src="assets/bebop_smoke.gif" align="right" height="500px">
 </div>
 
 
-#### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=go,cs,python)](https://skillicons.dev)
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
