@@ -99,7 +99,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nifle3/nifle3/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2023 18:36:15 UTC
+ Last Updated on 17/11/2023 18:35:56 UTC
 <!--END_SECTION:waka-->
 
 ## My skills 🛠️
