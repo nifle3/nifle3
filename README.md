@@ -64,16 +64,18 @@ Sunday                   86 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+todoApp                  0 secs              ██████████████████░░░░░░░   73.20 % 
+actionChat               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+weatherReport            0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -93,7 +95,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nifle3/nifle3/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2023 18:34:14 UTC
+ Last Updated on 26/11/2023 18:34:16 UTC
 <!--END_SECTION:waka-->
 
 ## My skills 🛠️
