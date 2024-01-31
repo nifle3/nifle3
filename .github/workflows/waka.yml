@@ -16,4 +16,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_UPDATED_DATE: false
           SHOW_TIMEZONE: false
-          SHOW_TIMELINE: false
+          IGNORED_LANGUAGES: yaml, toml, json
+          SHOW_TOTAL: false
