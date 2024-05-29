@@ -82,7 +82,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 #### Other technologies
-[![My Skills](https://skillicons.dev/icons?i=unity,docker,git,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,docker,git,wasm,githubactions,kafka)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nifle3&layout=compact&theme=nord)
 
