@@ -20,59 +20,6 @@
 </div>
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2017%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 231.3 kB Used in GitHub's Storage 
- > 
-> 🏆 68 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-🌆 Daytime                399 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-🌃 Evening                595 commits         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-🌙 Night                  827 commits         ██████████░░░░░░░░░░░░░░░   41.68 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Tuesday                  266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Wednesday                281 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Thursday                 378 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Friday                   648 commits         ████████░░░░░░░░░░░░░░░░░   32.66 % 
-Saturday                 154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Sunday                   116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-```
-
-
-**I Mostly Code in C#** 
-
-```text
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Go                       9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Cuda                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-```
-
-
-
-
-<!--END_SECTION:waka-->
-
 ## My skills 🛠️
 #### Programming languages
 <div align="center">
@@ -95,4 +42,4 @@ Cuda                     1 repo              █░░░░░░░░░░�
 - Get a redshirt in college
 - Undergraduate enrollment
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord) 
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
