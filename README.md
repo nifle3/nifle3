@@ -7,11 +7,6 @@
   </p>
 </div>
 
-<div>
-  <h2>About me 🚀</h2>
-  <img src="assets/lain2.gif" align="center" height="300px">
-</div>
-
 ## My skills 🛠️
 #### Programming languages
 <div align="center">
