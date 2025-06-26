@@ -17,6 +17,7 @@
     <li>🌱 I'm currently studying at the College of Information Technology (KAI).</li>
     <li>👾 My hobbies are playing video games and dnd, learning the history of video games </li>
   </ul>
+  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 </div>
 
 
@@ -41,5 +42,3 @@
 - Learning game dev developer stack
 - Get a redshirt in college
 - Undergraduate enrollment
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
