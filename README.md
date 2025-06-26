@@ -9,9 +9,7 @@
 
 <div>
   <h2>About me 🚀</h2>
-   <div align="center">
-    <img src="assets/lain2.gif" align="right" height="300px">
-  </div>
+  <img src="assets/lain2.gif" align="center" height="300px">
 </div>
 
 ## My skills 🛠️
