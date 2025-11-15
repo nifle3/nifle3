@@ -14,7 +14,7 @@
 </div>
 
 
-[![My Skills](https://skillicons.dev/icons?i=go,cs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,cs,python,ts)](https://skillicons.dev)
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 #### Other technologies
